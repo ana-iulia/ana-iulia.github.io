@@ -1,0 +1,564 @@
+.student2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.student2-student2 {
+  width: 100%;
+  height: 1266px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.student2-header {
+  top: 0px;
+  left: 410px;
+  width: 1140px;
+  height: 187px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.student2-ubblogo1 {
+  top: 53px;
+  left: 39.03415298461914px;
+  width: 266px;
+  height: 81px;
+  position: absolute;
+}
+.student2-psihologo1 {
+  top: 53px;
+  left: 694.6093139648438px;
+  width: 405px;
+  height: 81px;
+  position: absolute;
+}
+.student2-top-bar {
+  top: 187px;
+  left: 1061px;
+  width: 449px;
+  height: 59px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student2-rectangle3 {
+  top: 0px;
+  left: 260px;
+  width: 189px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.student2-logout1 {
+  top: 10px;
+  left: 398px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.student2-text {
+  top: 14px;
+  color: rgba(17, 85, 151, 1);
+  width: 221px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text02 {
+  top: 10px;
+  left: 266px;
+  color: rgba(17, 85, 151, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-coordinators-list {
+  top: 377px;
+  left: 450px;
+  width: 1061px;
+  height: 786px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.student2-coordinator-card {
+  top: 309.00006103515625px;
+  left: 5px;
+  width: 1042px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student2-buttonbutton {
+  top: 0.00005104951560497284px;
+  left: 846px;
+  width: 196px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.student2-text04 {
+  top: 11px;
+  left: 64px;
+  color: rgba(255, 255, 255, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text06 {
+  top: 13.000045776367188px;
+  left: 541px;
+  color: rgba(0, 0, 0, 1);
+  width: 49px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text08 {
+  top: 13.000045776367188px;
+  left: 238px;
+  color: rgba(0, 0, 0, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.student2-text10 {
+  top: 17.000043869018555px;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-uploadbutton {
+  top: 10px;
+  left: 724.1741333007812px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.student2-coordinator-card1 {
+  top: 116px;
+  left: 5px;
+  width: 1042px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student2-buttonbutton1 {
+  top: 0px;
+  left: 846px;
+  width: 196px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.student2-text12 {
+  top: 11px;
+  left: 64px;
+  color: rgba(255, 255, 255, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text14 {
+  top: 13px;
+  left: 541px;
+  color: rgba(0, 0, 0, 1);
+  width: 49px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text16 {
+  top: 13px;
+  left: 238px;
+  color: rgba(0, 0, 0, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.student2-text18 {
+  top: 17px;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-uploadbutton1 {
+  top: 10px;
+  left: 724.5872802734375px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.student2-coordinator-card2 {
+  top: 213.99989318847656px;
+  left: 5px;
+  width: 1042px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student2-buttonbutton2 {
+  top: 0px;
+  left: 846px;
+  width: 196px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(166, 178, 29, 1);
+}
+.student2-text20 {
+  top: 12.0001220703125px;
+  left: 32px;
+  color: rgba(255, 255, 255, 1);
+  width: 145px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text22 {
+  top: 12.999994277954102px;
+  left: 541px;
+  color: rgba(0, 0, 0, 1);
+  width: 49px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text24 {
+  top: 12.999994277954102px;
+  left: 238px;
+  color: rgba(0, 0, 0, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.student2-text26 {
+  top: 16.99999237060547px;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-uploadbutton2 {
+  top: 10px;
+  left: 724.1741333007812px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.student2-rectangle5 {
+  top: 0px;
+  left: 0px;
+  width: 1061px;
+  height: 78px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.student2-text28 {
+  top: 14px;
+  left: 511px;
+  color: rgba(0, 0, 0, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text30 {
+  top: 14px;
+  left: 681px;
+  color: rgba(0, 0, 0, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-line2 {
+  top: 0px;
+  left: 474px;
+  width: 78px;
+  height: 1px;
+  position: absolute;
+}
+.student2-text32 {
+  top: 28px;
+  left: 240px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-line1 {
+  top: 1px;
+  left: 205px;
+  width: 78px;
+  height: 1px;
+  position: absolute;
+}
+.student2-line3 {
+  top: -2px;
+  left: 656px;
+  width: 78px;
+  height: 1px;
+  position: absolute;
+}
+.student2-line4 {
+  top: 2px;
+  left: 832px;
+  width: 78px;
+  height: 1px;
+  position: absolute;
+}
+.student2-text34 {
+  top: 30px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-sidebar-menu {
+  top: 0px;
+  left: 0px;
+  width: 410px;
+  height: 1266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.student2-text36 {
+  top: 609px;
+  left: 42px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text38 {
+  top: 739px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text40 {
+  top: 676px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student2-text42 {
+  top: 543px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,493 @@
+.teacher2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.teacher2-teacher2 {
+  width: 100%;
+  height: 1266px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.teacher2-header {
+  top: 0px;
+  left: 410px;
+  width: 1140px;
+  height: 187px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.teacher2-ubblogo1 {
+  top: 53px;
+  left: 39.03415298461914px;
+  width: 266px;
+  height: 81px;
+  position: absolute;
+}
+.teacher2-psihologo1 {
+  top: 53px;
+  left: 694.6093139648438px;
+  width: 405px;
+  height: 81px;
+  position: absolute;
+}
+.teacher2-students-requests {
+  top: 392.0001220703125px;
+  left: 450px;
+  width: 1061px;
+  height: 786px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.teacher2-student-card {
+  top: 267.0000915527344px;
+  left: 43px;
+  width: 1005px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher2-button {
+  top: 0px;
+  left: 809px;
+  width: 196px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.teacher2-text {
+  top: 11px;
+  left: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-text02 {
+  top: 2px;
+  left: 222px;
+  color: rgba(0, 0, 0, 1);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.teacher2-text04 {
+  top: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-download {
+  top: 8.019805908203125px;
+  left: 701.0213623046875px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.teacher2-student-card1 {
+  top: 187.00006103515625px;
+  left: 43px;
+  width: 1005px;
+  height: 52.13990783691406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher2-button1 {
+  top: 0px;
+  left: 809px;
+  width: 196px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.teacher2-text06 {
+  top: 11px;
+  left: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-text08 {
+  top: 12px;
+  left: 222px;
+  color: rgba(0, 0, 0, 1);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.teacher2-text10 {
+  top: 12px;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-download1 {
+  top: 14.01983642578125px;
+  left: 701.0213623046875px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.teacher2-student-card2 {
+  top: 107.00004577636719px;
+  left: 43px;
+  width: 1005px;
+  height: 50.139923095703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher2-button2 {
+  top: 0px;
+  left: 809px;
+  width: 196px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.teacher2-text12 {
+  top: 11px;
+  left: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-text14 {
+  top: 12px;
+  left: 222px;
+  color: rgba(0, 0, 0, 1);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.teacher2-text16 {
+  top: 13px;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-download2 {
+  top: 12.019851684570312px;
+  left: 701.0213623046875px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.teacher2-rectangle5 {
+  top: 0px;
+  left: 0px;
+  width: 1061px;
+  height: 78px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.teacher2-line2 {
+  top: 0px;
+  left: 631.5px;
+  width: 78px;
+  height: 1px;
+  position: absolute;
+}
+.teacher2-line3 {
+  top: 0px;
+  left: 813px;
+  width: 78px;
+  height: 1px;
+  position: absolute;
+}
+.teacher2-text18 {
+  top: 28.000003814697266px;
+  left: 341px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-line1 {
+  top: 1px;
+  left: 224px;
+  width: 78px;
+  height: 1px;
+  position: absolute;
+}
+.teacher2-text20 {
+  top: 30.000003814697266px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-text22 {
+  top: 11px;
+  left: 673px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-top-bar {
+  top: 187px;
+  left: 1035px;
+  width: 476px;
+  height: 59px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher2-rectangle3 {
+  top: 0px;
+  left: 287px;
+  width: 189px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.teacher2-logout1 {
+  top: 10px;
+  left: 425px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.teacher2-text24 {
+  top: 14px;
+  color: rgba(17, 85, 151, 1);
+  width: 248px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-text26 {
+  top: 10px;
+  left: 293px;
+  color: rgba(17, 85, 151, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-menu {
+  top: 0px;
+  left: 0px;
+  width: 410px;
+  height: 1266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.teacher2-text28 {
+  top: 650px;
+  left: 42px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-text30 {
+  top: 788px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-text32 {
+  top: 585px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher2-text34 {
+  top: 721px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

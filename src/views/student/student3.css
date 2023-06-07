@@ -1,0 +1,451 @@
+.student3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.student3-student3 {
+  width: 100%;
+  height: 1266px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.student3-sidebar-menu {
+  top: 0px;
+  left: 0px;
+  width: 410px;
+  height: 1266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.student3-text {
+  top: 609px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-text02 {
+  top: 739px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-text04 {
+  top: 676px;
+  left: 42px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-text06 {
+  top: 543px;
+  left: 42px;
+  color: rgba(199, 188, 188, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-grade-card {
+  top: 479px;
+  left: 451px;
+  width: 1008px;
+  height: 129px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 0.1599999964237213);
+}
+.student3-text08 {
+  top: 18px;
+  left: 497px;
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-text10 {
+  top: 12px;
+  left: 797px;
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-text12 {
+  top: 50px;
+  left: 48px;
+  color: rgba(0, 0, 0, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-group10 {
+  top: 46px;
+  left: 452px;
+  width: 177px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student3-rectangle11 {
+  top: 0px;
+  left: 71px;
+  width: 106px;
+  height: 75px;
+  position: absolute;
+}
+.student3-rectangle12 {
+  top: 0px;
+  left: 71px;
+  width: 106px;
+  height: 75px;
+  position: absolute;
+}
+.student3-text14 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-group11 {
+  top: 46px;
+  left: 752px;
+  width: 177px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student3-rectangle111 {
+  top: 0px;
+  left: 71px;
+  width: 106px;
+  height: 75px;
+  position: absolute;
+}
+.student3-rectangle121 {
+  top: 0px;
+  left: 71px;
+  width: 106px;
+  height: 75px;
+  position: absolute;
+}
+.student3-text16 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-grade-card1 {
+  top: 796px;
+  left: 451px;
+  width: 1008px;
+  height: 129px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 0.1599999964237213);
+}
+.student3-text18 {
+  top: 18px;
+  left: 497px;
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-text20 {
+  top: 12px;
+  left: 797px;
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-text22 {
+  top: 50px;
+  left: 48px;
+  color: rgba(0, 0, 0, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-group101 {
+  top: 46px;
+  left: 452px;
+  width: 177px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student3-rectangle112 {
+  top: 0px;
+  left: 71px;
+  width: 106px;
+  height: 75px;
+  position: absolute;
+}
+.student3-rectangle122 {
+  top: 0px;
+  left: 71px;
+  width: 106px;
+  height: 75px;
+  position: absolute;
+}
+.student3-text24 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-group111 {
+  top: 46px;
+  left: 752px;
+  width: 177px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student3-rectangle113 {
+  top: 0px;
+  left: 71px;
+  width: 106px;
+  height: 75px;
+  position: absolute;
+}
+.student3-rectangle123 {
+  top: 0px;
+  left: 71px;
+  width: 106px;
+  height: 75px;
+  position: absolute;
+}
+.student3-text26 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-header {
+  top: 0px;
+  left: 410px;
+  width: 1140px;
+  height: 187px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.student3-ubblogo1 {
+  top: 53px;
+  left: 39.03415298461914px;
+  width: 266px;
+  height: 81px;
+  position: absolute;
+}
+.student3-psihologo1 {
+  top: 53px;
+  left: 694.6093139648438px;
+  width: 405px;
+  height: 81px;
+  position: absolute;
+}
+.student3-top-bar {
+  top: 187px;
+  left: 1061px;
+  width: 449px;
+  height: 59px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student3-rectangle3 {
+  top: 0px;
+  left: 260px;
+  width: 189px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.student3-logout1 {
+  top: 10px;
+  left: 398px;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+}
+.student3-text28 {
+  top: 14px;
+  color: rgba(17, 85, 151, 1);
+  width: 221px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student3-text30 {
+  top: 10px;
+  left: 266px;
+  color: rgba(17, 85, 151, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

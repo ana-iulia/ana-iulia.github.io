@@ -1,0 +1,152 @@
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-login {
+  width: 100%;
+  height: 1266px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-group4 {
+  top: 420px;
+  left: 474px;
+  width: 530px;
+  height: 547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-login-form {
+  top: 0px;
+  left: 0px;
+  width: 530px;
+  height: 547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-buttonbutton {
+  top: 406.73333740234375px;
+  left: 118px;
+  width: 284px;
+  height: 52.068687438964844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(17, 85, 151, 1);
+}
+.login-text {
+  top: 11.688823699951172px;
+  left: 66px;
+  color: rgba(255, 255, 255, 1);
+  width: 153px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-group3input {
+  top: 121.94949340820312px;
+  left: 72px;
+  width: 376px;
+  height: 77.57171630859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-text2 {
+  top: 24.4404354095459px;
+  left: 23px;
+  color: rgba(17, 85, 151, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-group4input {
+  top: 239.90101623535156px;
+  left: 72px;
+  width: 376px;
+  height: 77.57171630859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-text4 {
+  top: 24.440290451049805px;
+  left: 23px;
+  color: rgba(17, 85, 151, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-padlock1 {
+  top: 19px;
+  left: 244px;
+  width: 43px;
+  height: 51px;
+  position: absolute;
+}
+.login-header {
+  top: 0px;
+  left: 0px;
+  width: 1550px;
+  height: 248px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-ubblogo1 {
+  top: 70.28877258300781px;
+  left: 53.07275390625px;
+  width: 362px;
+  height: 107px;
+  position: absolute;
+}
+.login-psihologo1 {
+  top: 70.28877258300781px;
+  left: 944.4249267578125px;
+  width: 551px;
+  height: 107px;
+  position: absolute;
+}
